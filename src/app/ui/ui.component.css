@@ -44,3 +44,7 @@
     color: brown;
 }
 
+.exp-button {
+    cursor: pointer;
+    color: rgb(22, 121, 121);
+}
