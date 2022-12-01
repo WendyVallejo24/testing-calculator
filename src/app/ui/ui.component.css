@@ -34,3 +34,27 @@
     color: green;
 }
 
+.division-button {
+    cursor: pointer;
+    color: blueviolet;
+}
+
+.multiplication-button{
+    cursor: pointer;
+    color: brown;
+}
+
+.exp-button {
+    cursor: pointer;
+    color: rgb(22, 121, 121);
+}
+
+.sqr-button {
+    cursor: pointer;
+    color: rgb(46, 207, 159);
+}
+
+.sqrt-button {
+    cursor: pointer;
+    color: rgb(207, 110, 46);
+}
